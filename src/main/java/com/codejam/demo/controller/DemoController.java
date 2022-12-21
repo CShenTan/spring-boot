@@ -13,7 +13,7 @@ public class DemoController {
 
 
     @GetMapping(path = "/unit-test")
-    ResponseEntity<Integer> getUnitTestResult() throws Exception{
+    ResponseEntity<Integer> getUnitTestResult() throws Exception {
         return null;
     }
 
